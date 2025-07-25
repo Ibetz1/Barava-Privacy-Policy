@@ -11,3 +11,5 @@
 - Data transmitted between the app and any Barava device via Wi-Fi only exists on the user(s) local network. Barava devices do not use encryption for it's Wi-Fi based protocols and do not transmit any sensitive information using these protocols.
 
 - Data transmitted between the app and any Barava device via Bluetooth is encrypted. Data transferred in said manner may include sensitive information such as Wi-Fi SSID and password.
+
+# Last updated 7/25/2025
